@@ -1,0 +1,15 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>CreateServlet</servlet-name>  
+<servlet-class>CreateServlet</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>CreateServlet</servlet-name>  
+<url-pattern>/CreateServlet</url-pattern>  
+</servlet-mapping>  
+ 
+
+  
+</web-app>  
